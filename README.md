@@ -22,6 +22,6 @@ Free online tools for PDF and image processing:
 - PDF merge
 - PDF encryption
 
-Following a technical incident with the host provider, the website is currently unavailable. 
+Following a technical incident at the host provider level, the website is currently unavailable. 
 
 Live: https://universal-converter.fr.eu.org
